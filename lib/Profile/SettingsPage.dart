@@ -314,7 +314,7 @@ class _SettingPageUIState extends State<SettingPageUI> {
               SizedBox(height: 25),
               TextButton(
                 onPressed: () {
-                  customLaunch("tel:05071931635");
+                  customLaunch("tel:0123456");
                 },
                 child: Container(
                   decoration: BoxDecoration(
